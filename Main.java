@@ -1,5 +1,4 @@
 /*
-Aryaa Mutha
 12/4/24
 Voting Ballot for Thor vs Loki
  */
